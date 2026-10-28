@@ -1,3 +1,4 @@
+# KR2: Малютин
 import os
 import socket
 
